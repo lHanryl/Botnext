@@ -1,0 +1,2 @@
+# Botnext
+Bot discord dados
